@@ -1,0 +1,6 @@
+input, select {
+  margin: 0 5px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  min-width: 110px;
+}
